@@ -156,6 +156,3 @@ Notes additionnelles: ____________
 **Version:** 1.0  
 **Auteur:** Lucas De Oliveira  
 **Feedback?** Proposez des améliorations
-```
-
----
