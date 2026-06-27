@@ -1,4 +1,3 @@
-markdown
 # Procédure: Dépannage — Utilisateur n'a pas accès Internet
 
 **Numéro procédure:** P001  
