@@ -225,5 +225,5 @@ Statut : ACTIF
 
 ---
 
-**Version:** 1.0  
-**Auteur:** Lucas De Oliveira  
+**Version :** 1.0  
+**Auteur :** Lucas De Oliveira  
