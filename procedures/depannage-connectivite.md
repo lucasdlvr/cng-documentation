@@ -1,8 +1,8 @@
 # Procédure: Dépannage - Utilisateur n'a pas accès Internet
 
-**Numéro procédure:** P001  
-**Date création:** Juin 2026  
-**Niveau:** Support L1 (Niveau 1)
+**Numéro procédure :** P001  
+**Date création :** Juin 2026  
+**Niveau :** Support L1 (Niveau 1)
 
 ---
 
@@ -14,7 +14,7 @@ Diagnostiquer et résoudre rapidement un problème de connectivité Internet ou 
 
 ## 📋 Symptômes (le client signale)
 
-Cochez le symptôme correspondant:
+Cochez le symptôme correspondant :
 
 - [ ] "Je n'ai pas Internet"
 - [ ] "Je ne peux pas me connecter au Wi-Fi"
@@ -26,20 +26,20 @@ Cochez le symptôme correspondant:
 
 ## 🔧 Diagnostic (Étapes)
 
-**ÉTAPE 1: Vérifier le statut du réseau (2 min)**
+**ÉTAPE 1 : Vérifier le statut du réseau (2 min)**
 
-Windows 10/11:
+Windows 10/11 :
 - En Bas à droite → Icône réseau → Qu'est-ce qu'on voit?
   - ✅ Connecté à Wi-Fi = probablement bon
   - ❌ "Pas de connexion" = problème
   - ❌ "!" jaune = problème de connexion
 
-MacOS:
-- En Haut à droite → Icône Wi-Fi → Quels réseaux disponibles?
+MacOS :
+- En Haut à droite → Icône Wi-Fi → Quels réseaux disponibles ?
 
-**Action:** Redémarrer la carte réseau
+**Action :** Redémarrer la carte réseau
 
-Windows:
+Windows :
 1. Clic droit sur icône réseau → Paramètres réseau avancés
 2. Paramètres réseau avancés → Paramètres d'adaptateur
 3. Clic droit sur "Wi-Fi" ou "Ethernet" → Désactiver
@@ -48,39 +48,39 @@ Windows:
 
 ---
 
-**ÉTAPE 2: Tester la connectivité (2 min)**
+**ÉTAPE 2 : Tester la connectivité (2 min)**
 
-Ouvrir Command Prompt (ou Terminal):
+Ouvrir Command Prompt (ou Terminal) :
 
-Windows: Win + R → tape "cmd" → Entrée
-Mac: Cmd + Espace → tape "terminal" → Entrée
+Windows : Win + R → tape "cmd" → Entrée
+Mac : Cmd + Espace → tape "terminal" → Entrée
 
-Tape la commande:
+Tape la commande :
 ```
 ping 8.8.8.8
 ```
 
-**Résultat?**
+**Résultat ?**
 - ✅ `Reply from 8.8.8.8: bytes=32 time=xx ms` → Internet OK, DNS possiblement en cause
 - ❌ `Request timed out` → Pas de connexion Internet, vérifier routeur/Wi-Fi
 
 ---
 
-**ÉTAPE 3: Vérifier DNS (2 min)**
+**ÉTAPE 3 : Vérifier DNS (2 min)**
 
-Toujours dans le terminal/cmd:
+Toujours dans le terminal/cmd :
 
 ```
 nslookup google.com
 ```
 
-**Résultat?**
+**Résultat ?**
 - ✅ `Address: 142.250.x.x` (un truc qui s'affiche) → DNS OK
 - ❌ `Can't find server` → DNS cassé
 
-**Fix DNS:**
+**Fix DNS :**
 
-Windows:
+Windows :
 1. Panneau de configuration → Réseau → Paramètres adaptateur
 2. Clic droit Wi-Fi → Propriétés
 3. IPv4 → Propriétés
@@ -91,9 +91,9 @@ Windows:
 
 ---
 
-**ÉTAPE 4: Vérifier le routeur (2 min)**
+**ÉTAPE 4 : Vérifier le routeur (2 min)**
 
-Si ping et DNS OK mais toujours pas Internet:
+Si ping et DNS OK mais toujours pas Internet :
 
 ```
 ping 192.168.1.1
@@ -104,7 +104,7 @@ ping 192.168.1.1
 - ✅ Répond → Routeur OK, problème en amont
 - ❌ Request timed out → Routeur OFF ou problème Wi-Fi
 
-**Fix:**
+**Fix :**
 - Éteindre routeur 30 sec
 - Redémarrer
 - Vérifier voyants (Internet = vert)
@@ -123,35 +123,35 @@ ping 192.168.1.1
 
 ---
 
-## 📞 Quand escalader (contacter responsable réseau)?
+## 📞 Quand escalader (contacter responsable réseau) ?
 
 - ✅ Vous avez suivi tout et ça marche pas
 - ✅ Le problème affecte plusieurs postes
 - ✅ Le routeur ne répond pas
 - ✅ Suspect problème câble/infrastructure physique
 
-**Contacter:** [Nom responsable réseau] — [email/phone]
+**Contacter :** [Nom responsable réseau] — [email/phone]
 
 ---
 
 ## 📝 Traçabilité (À documenter après intervention)
 
-Numéro ticket: ____________
-Date intervention: ____________
-Utilisateur: ____________
-Symptôme initial: ____________
-Étapes effectuées:
+Numéro ticket : ____________
+Date intervention : ____________
+Utilisateur : ____________
+Symptôme initial : ____________
+Étapes effectuées :
 1. ___________________
 2. ___________________
 3. ___________________
 
-Solution appliquée: ____________
-Résultat: ✅ Résolu / ❌ Escaladé
-Temps total: ____________ min
-Notes additionnelles: ____________
+Solution appliquée : ____________
+Résultat : ✅ Résolu / ❌ Escaladé
+Temps total : ____________ min
+Notes additionnelles : ____________
 
 ---
 
-**Version:** 1.0  
-**Auteur:** Lucas De Oliveira  
-**Feedback?** Proposez des améliorations
+**Version :** 1.0  
+**Auteur :** Lucas De Oliveira  
+**Feedback ?** Proposez des améliorations
