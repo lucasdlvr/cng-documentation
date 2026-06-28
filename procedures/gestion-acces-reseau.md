@@ -179,7 +179,7 @@ Demandeur : Lucas Oliveira
 Type d'accès : VPN
 Date demande : 2024-12-15
 Manager validation : [Nom] - [Date]
-Sécu validation : [Nom] - Approuvé - [Conditions?]
+Sécu validation : [Nom] - Approuvé - [Conditions ?]
 Configuration date : 2024-12-16
 Config par : [Technicien]
 Test validation : ✅ OK
@@ -197,7 +197,7 @@ Statut : ACTIF
 - [ ] Responsable sécu a **évalué le risque**
 - [ ] Principe du **moindre privilège** appliqué (pas d'admin si juste user)
 - [ ] **2FA** activé si données sensibles
-- [ ] **Credentials temporaires** à 1ère connexion
+- [ ] **Identifiants temporaires** à la 1ère connexion
 - [ ] Accès **tracé** en GLPI
 - [ ] **Audit** trimestriel effectué
 - [ ] **Révocation** planifiée si temporaire
@@ -207,7 +207,7 @@ Statut : ACTIF
 ## 📞 Escalade
 
 **Contacter responsable sécurité si :**
-- ❓ Demande incohérente (ex: "accès VPN" pour quelqu'un qui n'en a pas besoin)
+- ❓ Demande incohérente (ex : "accès VPN" pour quelqu'un qui n'en a pas besoin)
 - ⚠️ Donnée sensible + accès non standard
 - 🚨 Suspicion d'abus (utilisateur accède à data pas de son département)
 
