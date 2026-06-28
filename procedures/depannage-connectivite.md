@@ -1,4 +1,4 @@
-# Procédure: Dépannage - Utilisateur n'a pas accès Internet
+# Procédure : Dépannage - Utilisateur n'a pas accès Internet
 
 **Numéro procédure :** P001  
 **Date création :** Juin 2026  
