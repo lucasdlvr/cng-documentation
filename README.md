@@ -7,7 +7,7 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 ### Procédures
 - [Dépannage: Problème connectivité](procedures/depannage-connectivite.md)
 - [Créer un nouvel utilisateur Windows](procedures/creer-utilisateur.md)
-- [Incident de sécurité: Marche à suivre](procedures/incident-securite.md)
+- [Gestion des demandes d'accès réseau](procedures/gestion-acces-reseau.md)
 
 ### Checklists
 - [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
