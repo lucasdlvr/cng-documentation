@@ -13,7 +13,7 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 - [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
 - [Checklist: Renouvellement matériel](checklists/renouvellement-materiel.md)
 
----
+<br><br>
 
 ## 🏢 Contexte du CNG
 
