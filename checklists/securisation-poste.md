@@ -87,11 +87,11 @@
   Commande : systeminfo | find "Serial"
 
 - [ ] **Configuration documentée :** Fiche technique complétée
-  Processeur : ____________
-  RAM : ____________
-  Disque : ____________
-  OS : ____________
-  Logiciels : ____________
+  - Processeur : ____________
+  - RAM : ____________
+  - Disque : ____________
+  - OS : ____________
+  - Logiciels : ____________
 
 - [ ] **Utilisateur formé :** Baseline expliquée
   - [ ] Mot de passe robuste
