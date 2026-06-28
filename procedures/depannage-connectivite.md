@@ -1,7 +1,7 @@
 # Procédure: Dépannage — Utilisateur n'a pas accès Internet
 
 **Numéro procédure:** P001  
-**Date création:** Décembre 2024  
+**Date création:** Juin 2026 
 **Niveau:** Support L1 (Niveau 1)
 
 ---
@@ -29,13 +29,13 @@ Cochez le symptôme correspondant:
 **ÉTAPE 1: Vérifier le statut du réseau (2 min)**
 
 Windows 10/11:
-- Bas à droite → Icône réseau → Qu'est-ce qu'on voit?
+- En Bas à droite → Icône réseau → Qu'est-ce qu'on voit?
   - ✅ Connecté à Wi-Fi = probablement bon
   - ❌ "Pas de connexion" = problème
   - ❌ "!" jaune = problème de connexion
 
 MacOS:
-- Haut à droite → Icône Wi-Fi → Quels réseaux disponibles?
+- En Haut à droite → Icône Wi-Fi → Quels réseaux disponibles?
 
 **Action:** Redémarrer la carte réseau
 
