@@ -136,17 +136,17 @@ ping 192.168.1.1
 
 ## 📝 Traçabilité (À documenter après intervention)
 
-Numéro ticket : ____________
-Date intervention : ____________
-Utilisateur : ____________
-Symptôme initial : ____________
-Étapes effectuées :
+- Numéro ticket : ____________
+- Date intervention : ____________
+- Utilisateur : ____________
+- Symptôme initial : ____________
+- Étapes effectuées :
 1. ___________________
 2. ___________________
 3. ___________________
 
-Solution appliquée : ____________
-Résultat : ✅ Résolu / ❌ Escaladé
+- Solution appliquée : ____________
+- Résultat : ✅ Résolu / ❌ Escaladé
 - Temps total : ____________ min
 - Notes additionnelles : ____________
 
