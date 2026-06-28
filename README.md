@@ -1,4 +1,4 @@
-# Documentation IT — BSI CNG
+# Documentation IT - BSI CNG
 
 Bienvenue! Cette documentation regroupe les procédures et checklists essentielles pour le support IT du Bureau des Systèmes d'Information du CNG.
 
