@@ -96,7 +96,7 @@ Maintenant que c'est approuvé, configurer l'accès.
 2. Assigner groupe "VPN_Users" (AD)
 3. Installer client VPN sur poste utilisateur
 4. Envoyer instructions + identifiants temporaires
-5. Utilisateur change de mot de passe à première connexion
+5. Utilisateur doit changer de mot de passe à la première connexion
 6. Tester une connexion VPN
 
 #### **Partage réseau/NAS :**
