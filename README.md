@@ -12,8 +12,7 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 ### Checklists
 - [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
 - [Checklist: Renouvellement matériel](checklists/renouvellement-materiel.md)
-
-
+<br>
 ## 🏢 Contexte du CNG
 
 Le Centre National de Gestion (CNG) gère les carrières de plus de 65 000 praticiens hospitaliers et directeurs de la fonction publique hospitalière. 
