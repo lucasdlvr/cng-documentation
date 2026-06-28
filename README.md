@@ -36,8 +36,7 @@ Ces procédures sont structurées pour:
 4. **Former l'équipe** (bonnes pratiques partagées)
 
 Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructure, groupes AD, serveurs, etc.).
-
-
+<br><br>
 ## 🎯 Objectifs
 
 Cette documentation aide les techniciens du BSI à:
