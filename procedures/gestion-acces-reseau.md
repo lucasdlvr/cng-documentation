@@ -29,7 +29,7 @@ Le CNG gère des données sensibles (données praticiens, infos administratives)
 
 L'utilisateur (ou son manager) soumet via ticket :
 
-**Infos requises:**
+**Infos requises :**
 - [ ] Demandeur (nom, département)
 - [ ] Type d'accès (Wi-Fi ? VPN ? Partage ?)
 - [ ] Durée (permanent ou temporaire ?)
