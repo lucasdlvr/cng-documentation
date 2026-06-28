@@ -1,7 +1,7 @@
 # Procédure: Dépannage — Utilisateur n'a pas accès Internet
 
 **Numéro procédure:** P001  
-**Date création:** Juin 2026
+**Date création:** Juin 2026  
 **Niveau:** Support L1 (Niveau 1)
 
 ---
