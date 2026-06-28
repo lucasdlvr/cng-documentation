@@ -147,8 +147,8 @@ Symptôme initial : ____________
 
 Solution appliquée : ____________
 Résultat : ✅ Résolu / ❌ Escaladé
-Temps total : ____________ min
-Notes additionnelles : ____________
+- Temps total : ____________ min
+- Notes additionnelles : ____________
 
 ---
 
