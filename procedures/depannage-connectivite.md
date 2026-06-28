@@ -154,4 +154,3 @@ ping 192.168.1.1
 
 **Version :** 1.0  
 **Auteur :** Lucas De Oliveira  
-**Feedback ?** Proposez des améliorations
