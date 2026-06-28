@@ -220,7 +220,6 @@ Statut : ACTIF
 ## 📚 Ressources
 
 - [RGPD et accès aux données](https://cnil.fr)
-- [Guide sécurité accès réseau](https://anssi.gouv.fr)
 - Serveurs/outils : [À remplir avec infra CNG réelle]
 - Support : [Email responsable sécurité/IT]
 
