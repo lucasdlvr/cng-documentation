@@ -87,7 +87,7 @@ Maintenant que c'est approuvé, configurer l'accès.
 
 #### **Wi-Fi d'entreprise :**
 1. Ajouter utilisateur au groupe AD "WiFi_Users"
-2. Configurer 802.1X (certificat ou credential domaine)
+2. Configurer 802.1X (certificat ou identifiant de domaine)
 3. Envoyer SSID + instructions
 4. Tester de proximité (demander à l'utilisateur de se connecter)
 
@@ -95,8 +95,8 @@ Maintenant que c'est approuvé, configurer l'accès.
 1. Créer/activer VPN account dans serveur VPN
 2. Assigner groupe "VPN_Users" (AD)
 3. Installer client VPN sur poste utilisateur
-4. Envoyer instructions + credentials temporaires
-5. Utilisateur change password à première connexion
+4. Envoyer instructions + identifiants temporaires
+5. Utilisateur change de mot de passe à première connexion
 6. Tester une connexion VPN
 
 #### **Partage réseau/NAS :**
