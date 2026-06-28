@@ -35,7 +35,7 @@ Ces procédures sont structurées pour :
 3. **Appliquer la sécurité** à chaque étape (protéger données)
 4. **Former l'équipe** (bonnes pratiques partagées)
 
-Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructure, groupes AD, serveurs, etc.).
+Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructure, groupes AD, serveurs, etc...).
 <br><br>
 ## 🎯 Objectifs
 
