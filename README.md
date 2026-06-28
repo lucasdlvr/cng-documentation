@@ -5,13 +5,13 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 ## 📋 Contenu
 
 ### Procédures
-- [Dépannage: Problème connectivité](procedures/depannage-connectivite.md)
+- [Dépannage : Problème connectivité](procedures/depannage-connectivite.md)
 - [Créer un nouvel utilisateur Windows](procedures/creer-utilisateur.md)
 - [Gestion des demandes d'accès réseau](procedures/gestion-acces-reseau.md)
 
 ### Checklists
-- [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
-- [Checklist: Renouvellement matériel](checklists/renouvellement-materiel.md)
+- [Checklist : Sécuriser un poste de travail](checklists/securisation-poste.md)
+- [Checklist : Renouvellement matériel](checklists/renouvellement-materiel.md)
 <br><br>
 ## 🏢 Contexte du CNG
 
@@ -19,17 +19,17 @@ Le Centre National de Gestion (CNG) gère les carrières de plus de 65 000 prati
 
 Le Bureau des Systèmes d'Information (BSI), où vous travaillez, supporte une infrastructure informatique au service d'une mission publique critique: garantir le bon fonctionnement administratif et la sécurité des données relatives à la fonction publique hospitalière.
 
-### Enjeux spécifiques du BSI:
+### Enjeux spécifiques du BSI :
 
-**Sécurité:** Les données gérées sont sensibles (données de praticiens, infos administratives). Accès non-autorisé = violation de confidentialité.
+**Sécurité :** Les données gérées sont sensibles (données de praticiens, infos administratives). Accès non-autorisé = violation de confidentialité.
 
-**Continuité de service:** Les utilisateurs (praticiens, managers, administratifs) comptent sur l'IT au quotidien.
+**Continuité de service :** Les utilisateurs (praticiens, managers, administratifs) comptent sur l'IT au quotidien.
 
-**Conformité:** Respect RGPD, normes gouvernementales, audits.
+**Conformité :** Respect RGPD, normes gouvernementales, audits.
 
-### Comment cette documentation aide:
+### Comment cette documentation aide :
 
-Ces procédures sont structurées pour:
+Ces procédures sont structurées pour :
 1. **Résoudre rapidement** les problèmes (moins de downtime)
 2. **Tracer chaque action** (conformité + audit)
 3. **Appliquer la sécurité** à chaque étape (protéger données)
@@ -39,13 +39,13 @@ Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructu
 <br><br>
 ## 🎯 Objectifs
 
-Cette documentation aide les techniciens du BSI à:
+Cette documentation aide les techniciens du BSI à :
 - Diagnostiquer rapidement les problèmes
 - Documenter les interventions
 - Appliquer les bonnes pratiques de sécurité
 - Maintenir une traçabilité des actions
 
-## 📝 Comment utiliser?
+## 📝 Comment utiliser ?
 
 1. Lisez la procédure correspondant à votre situation
 2. Suivez les étapes dans l'ordre
@@ -58,6 +58,6 @@ Chaque modification est tracée et peut être revue. Les contributeurs sont les 
 
 ---
 
-**Auteur:** Lucas De Oliveira  
-**Date de création:** Juin 2026  
-**Dernier update:** Juin 2026
+**Auteur :** Lucas De Oliveira  
+**Date de création :** Juin 2026  
+**Dernier update :** Juin 2026
