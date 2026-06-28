@@ -13,6 +13,30 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 - [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
 - [Checklist: Renouvellement matériel](checklists/renouvellement-materiel.md)
 
+## 🏢 Contexte du CNG
+
+Le Centre National de Gestion (CNG) gère les carrières de plus de 65 000 praticiens hospitaliers et directeurs de la fonction publique hospitalière. 
+
+Le Bureau des Systèmes d'Information (BSI), où vous travaillez, supporte une infrastructure informatique au service d'une mission publique critique: garantir le bon fonctionnement administratif et la sécurité des données relatives à la fonction publique hospitalière.
+
+### Enjeux spécifiques du BSI:
+
+**Sécurité:** Les données gérées sont sensibles (données de praticiens, infos administratives). Accès non-autorisé = violation de confidentialité.
+
+**Continuité de service:** Les utilisateurs (praticiens, managers, administratifs) comptent sur l'IT au quotidien.
+
+**Conformité:** Respect RGPD, normes gouvernementales, audits.
+
+### Comment cette documentation aide:
+
+Ces procédures sont structurées pour:
+1. **Résoudre rapidement** les problèmes (moins de downtime)
+2. **Tracer chaque action** (conformité + audit)
+3. **Appliquer la sécurité** à chaque étape (protéger données)
+4. **Former l'équipe** (bonnes pratiques partagées)
+
+Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructure, groupes AD, serveurs, etc.).
+
 ## 🎯 Objectifs
 
 Cette documentation aide les techniciens du BSI à:
