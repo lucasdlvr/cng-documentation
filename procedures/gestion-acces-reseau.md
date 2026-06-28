@@ -229,6 +229,3 @@ Statut: ACTIF
 **Version:** 1.0  
 **Auteur:** Lucas De Oliveira  
 **Basé sur:** Bonnes pratiques ANSSI + Expérience Crédit Agricole (gestion des risques, équipes cyber)
-```
-
----
