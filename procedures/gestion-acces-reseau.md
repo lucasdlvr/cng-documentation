@@ -138,8 +138,8 @@ Connectez-vous et vérifiez que vous pouvez accéder.
 Si problème → répondre à ce mail ou ticket IT.
 
 Sécurité :
-- Ne partagez pas vos credentials
-- Changez password tous les 3 mois
+- Ne partagez pas vos identifiants
+- Changez votre mot de passe tous les 3 mois
 - Signalez tout accès suspect
 
 Support : [Email IT]
