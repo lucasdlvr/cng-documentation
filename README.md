@@ -13,6 +13,7 @@ Bienvenue! Cette documentation regroupe les procédures et checklists essentiell
 - [Checklist: Sécuriser un poste de travail](checklists/securisation-poste.md)
 - [Checklist: Renouvellement matériel](checklists/renouvellement-materiel.md)
 
+---
 
 ## 🏢 Contexte du CNG
 
@@ -37,7 +38,6 @@ Ces procédures sont structurées pour:
 4. **Former l'équipe** (bonnes pratiques partagées)
 
 Adaptez ces procédures au contexte technique réel du BSI (outils, infrastructure, groupes AD, serveurs, etc.).
-
 
 ## 🎯 Objectifs
 
