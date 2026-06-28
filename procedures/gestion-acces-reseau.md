@@ -73,7 +73,7 @@ C'est **critique** pour CNG (données publiques).
 **Décision :**
 - ✅ **Approuvé** → passer à étape 4
 - ❌ **Refusé** → notifier demandeur + manager
-- ⚠️ **Approuvé avec conditions** → ex : "2FA obligatoire", "durée 3 mois max", etc.
+- ⚠️ **Approuvé avec conditions** → ex : "2FA obligatoire", "durée 3 mois max", etc...
 
 **Trace :** Signer/dater la validation
 
@@ -164,7 +164,7 @@ Cordialement,
 
 **Révocation :**
 1. Notifier manager + utilisateur
-2. Supprimer accès (déjà groupes AD, partages, etc.)
+2. Supprimer accès (déjà groupes AD, partages, etc...)
 3. Documenter dans GLPI : "Révoqué [date] - [raison]"
 
 ---
