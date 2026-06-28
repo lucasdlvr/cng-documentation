@@ -59,5 +59,5 @@ Chaque modification est tracée et peut être revue. Les contributeurs sont les 
 ---
 
 **Auteur:** Lucas De Oliveira  
-**Date de création:** Décembre 2024  
-**Dernier update:** [À remplir]
+**Date de création:** Juin 2026  
+**Dernier update:** Juin 2026
